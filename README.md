@@ -2,9 +2,9 @@
  O "Start Reactor" é um dos mini-games que existem dentro do jogo Among Us.
  
  # Sobre o Jogo
- O criador monta uma sequência de sons e o jogador deve acertar todos os sons da sequência.
+ O contador cria uma sequência de sons e o jogador deve acertar todos os sons da sequência.
  
- Acesse o jogo [aqui](https://jogo-among-us.netlify.app/).
+ Acesse o jogo [aqui](https://jogo-start-reactor.netlify.app/).
  
 
 
