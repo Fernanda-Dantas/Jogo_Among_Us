@@ -6,7 +6,7 @@
  
  Acesse o jogo [aqui](https://jogo-start-reactor.netlify.app/).
  
-
+![start_gif](https://user-images.githubusercontent.com/81118959/162806834-29d22b7b-229a-4165-8108-950a788b258b.gif)
 
 # Tecnologias Utilizadas
 * HTML 5
