@@ -1,4 +1,19 @@
-# Jogo_Among_Us
- Jogo Among Us
+# Start Reactor
+ O "Start Reactor" é um dos mini-games que existem dentro do jogo Among Us.
  
- Acesse [aqui](https://jogo-among-us.netlify.app/).
+ # Sobre o Jogo
+ O criador monta uma sequência de sons e o jogador deve acertar todos os sons da sequência.
+ 
+ Acesse o jogo [aqui](https://jogo-among-us.netlify.app/).
+ 
+
+
+# Tecnologias Utilizadas
+* HTML 5
+* CSS 3
+* Javascript
+ 
+ 
+ 
+ # Referências
+ [Programamos um Mini-Game do Among Us com JavaScript Puro!](https://www.youtube.com/watch?v=C3WZrP0zlUk)
