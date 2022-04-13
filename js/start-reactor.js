@@ -163,7 +163,7 @@ startReactor = {
 
 
    },
-  start() {
+    start() {
 
       startReactor.computerCombination = startReactor.createCombination()
       startReactor.computerCombinationPosition = 1
@@ -174,7 +174,7 @@ startReactor = {
           }, 500)
       })
 
-  },
+    },
   
   createCombination() {
 
